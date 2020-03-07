@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Org Management Page should render 1`] = `
+<div
+  className="event-management"
+>
+  <h1>
+    Managed organizations
+  </h1>
+  <div
+    className="image-gallery"
+  >
+    <div
+      className="gallery-item"
+    >
+      <a
+        href="/org/undefined"
+        onClick={[Function]}
+      >
+        <img
+          alt={undefined}
+          src={undefined}
+        />
+      </a>
+      <div
+        className="description"
+      />
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,100 @@
+@import "~@blueprintjs/core/lib/css/blueprint.css";
+@import "~@blueprintjs/icons/lib/css/blueprint-icons.css";
+@import "~@blueprintjs/datetime/lib/css/blueprint-datetime.css";
+
+.flex-center {
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.left,
+.right {
+    flex: 1;
+}
+
+.push {
+    margin-left: auto;
+}
+
+flex-right {
+    justify-content: flex-end;
+}
+
+.half-row {
+    margin-right: 20px;
+    width: 50%;
+}
+
+.two-third-row {
+    margin-right: 20px;
+    width: 66%;
+}
+
+.full-row {
+    width: 100%;
+}
+
+img {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card {
+    margin-top: 13px;
+    margin-right: 0px;
+    margin-left: 0px;
+    overflow: scroll;
+}
+
+a.dont-highlight:link {
+    color: white;
+}
+
+a.dont-highlight:visited {
+    color: black;
+}
+
+a.dont-highlight:hover {
+    color: black;
+}
+
+a.dont-highlight:active {
+    color: black;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+.right-align {
+    float: right;
+}
+
+.header {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+
+.center-horizontal {
+    margin: 0 auto;
+}

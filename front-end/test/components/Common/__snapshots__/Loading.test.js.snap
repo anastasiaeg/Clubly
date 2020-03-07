@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loading should render 1`] = `
+<div
+  className="flex-center"
+>
+  <div
+    className="css-1o3m8w0"
+  >
+    <div
+      className="css-1l4m1kc"
+    />
+    <div
+      className="css-50w1hy"
+    />
+  </div>
+</div>
+`;

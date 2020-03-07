@@ -1,0 +1,309 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Org Page should render 1`] = `
+<div>
+  <div
+    className="bp3-form-group org"
+  >
+    <div
+      className="bp3-form-content"
+    >
+      <div
+        className="row"
+      >
+        <div
+          className="org-image-container"
+        >
+          <img
+            alt="WiCS Logo"
+            className="org-image"
+            src="https://static1.squarespace.com/static/58ed6670197aea8dbb07ec4e/t/5acac8faaa4a998f3f5dc351/1523239170320/"
+          />
+        </div>
+        <div>
+          <h2
+            className="bp3-heading"
+          >
+            WiCS
+          </h2>
+          <div
+            className="org-description"
+            style={
+              Object {
+                "width": "1162px",
+              }
+            }
+          >
+            The mission of the Women in Computer Science (WiCS) program is to support, promote, and retain women in computer science by providing opportunities for personal and professional development, social interaction, and outreach. Check out our home page: https://www.wicsatncsu.org/ Subscribe to our mailing list here: https://www.wicsatncsu.org/get-involved/. Join our Facebook group here: https://www.facebook.com/groups/ncsuwics/. Follow us on Twitter: https://twitter.com/WiCS_NCSU
+          </div>
+          <br />
+          <div
+            className="org-tags"
+          >
+            Tags:
+            <span>
+              <a
+                href="/search"
+                onClick={[Function]}
+              >
+                <span
+                  className="bp3-tag .modifier"
+                >
+                  Technology
+                </span>
+              </a>
+            </span>
+            <span>
+              <a
+                href="/search"
+                onClick={[Function]}
+              >
+                <span
+                  className="bp3-tag .modifier"
+                >
+                  Science
+                </span>
+              </a>
+            </span>
+            <span>
+              <a
+                href="/search"
+                onClick={[Function]}
+              >
+                <span
+                  className="bp3-tag .modifier"
+                >
+                  Women
+                </span>
+              </a>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br />
+  <div
+    className="row"
+  >
+    <div
+      className="full-row"
+    >
+      <h3
+        className="bp3-heading"
+      >
+        UPCOMING EVENTS
+      </h3>
+      <div
+        className="event-short"
+      >
+        <div
+          className="bp3-card bp3-elevation-0"
+        >
+          <a
+            href="/event"
+            onClick={[Function]}
+          >
+            <h4
+              className="bp3-heading"
+            >
+              Resume panel
+            </h4>
+          </a>
+          <p
+            className="bp3-text-overflow-ellipsis"
+            title={undefined}
+          >
+            Come get tips and ask questions about resumes and cover letters. Representatives from Advance Auto Parts and RepublicWireless will be there to answer questions and look over resumes, as well as Leslie Rand-Pickett from the CSC graduate career services
+          </p>
+          <div>
+            Monday, December 24, 10:33 AM
+          </div>
+          <div>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=Daniels%20Hall"
+              target="_blank"
+            >
+              <span
+                className="bp3-icon bp3-icon-locate"
+                icon="locate"
+              >
+                <svg
+                  data-icon="locate"
+                  fill={undefined}
+                  height={16}
+                  viewBox="0 0 16 16"
+                  width={16}
+                >
+                  <desc>
+                    locate
+                  </desc>
+                  <path
+                    d="M15 7h-.09A6.98 6.98 0 0 0 9 1.1V1c0-.55-.45-1-1-1S7 .45 7 1v.09A6.98 6.98 0 0 0 1.1 7H1c-.55 0-1 .45-1 1s.45 1 1 1h.1A6.969 6.969 0 0 0 7 14.91V15c0 .55.45 1 1 1s1-.45 1-1v-.09A6.98 6.98 0 0 0 14.9 9h.1c.55 0 1-.45 1-1s-.45-1-1-1zm-6.02 5.9c-.05-.5-.46-.9-.98-.9s-.93.4-.98.9A5.017 5.017 0 0 1 3.1 8.98c.5-.05.9-.46.9-.98s-.4-.93-.9-.98A5.017 5.017 0 0 1 7.02 3.1c.05.5.46.9.98.9s.93-.4.98-.9c1.97.39 3.52 1.95 3.92 3.92-.5.05-.9.46-.9.98s.4.93.9.98a5.017 5.017 0 0 1-3.92 3.92zM8 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+                    fillRule="evenodd"
+                  />
+                </svg>
+              </span>
+               
+              Daniels Hall
+            </a>
+          </div>
+          <br />
+          <span
+            className="org-tags"
+          >
+            <a
+              href="/search"
+              onClick={[Function]}
+            >
+              <span
+                className="bp3-tag .modifier"
+              >
+                Technology
+              </span>
+            </a>
+          </span>
+          <span
+            className="org-tags"
+          >
+            <a
+              href="/search"
+              onClick={[Function]}
+            >
+              <span
+                className="bp3-tag .modifier"
+              >
+                Panel
+              </span>
+            </a>
+          </span>
+        </div>
+        <br />
+      </div>
+      <button
+        className="bp3-button right-align"
+        disabled={undefined}
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        tabIndex={undefined}
+        type="button"
+      >
+        <span
+          className="bp3-icon bp3-icon-plus"
+          icon="plus"
+        >
+          <svg
+            data-icon="plus"
+            fill={undefined}
+            height={16}
+            viewBox="0 0 16 16"
+            width={16}
+          >
+            <desc>
+              plus
+            </desc>
+            <path
+              d="M13 7H9V3c0-.55-.45-1-1-1s-1 .45-1 1v4H3c-.55 0-1 .45-1 1s.45 1 1 1h4v4c0 .55.45 1 1 1s1-.45 1-1V9h4c.55 0 1-.45 1-1s-.45-1-1-1z"
+              fillRule="evenodd"
+            />
+          </svg>
+        </span>
+      </button>
+      <br />
+      <br />
+      <h3
+        className="bp3-heading"
+      >
+        PAST EVENTS
+      </h3>
+      <div
+        className="event-short"
+      >
+        <div
+          className="bp3-card bp3-elevation-0"
+        >
+          <a
+            href="/event"
+            onClick={[Function]}
+          >
+            <h4
+              className="bp3-heading"
+            >
+              Wics Mini Career Fair
+            </h4>
+          </a>
+          <p
+            className="bp3-text-overflow-ellipsis"
+            title={undefined}
+          >
+            WiCS is hosting its annual mini career fair along with help from STARS! Come out to Engineering Building 2 rooms 3001, 3002, and 3211 to meet the WiCS + STARS sponsors in an intimate environment. Light refreshments and snacks will be provided. WiCS is hosting its annual mini career fair along with help from STARS! Come out to Engineering Building 2 rooms 3001, 3002, and 3211 to meet the WiCS + STARS sponsors in an intimate environment. Light refreshments and snacks will be provided
+          </p>
+          <div>
+            Monday, December 24, 10:33 AM
+          </div>
+          <div>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=Engineering%20Building%20II"
+              target="_blank"
+            >
+              <span
+                className="bp3-icon bp3-icon-locate"
+                icon="locate"
+              >
+                <svg
+                  data-icon="locate"
+                  fill={undefined}
+                  height={16}
+                  viewBox="0 0 16 16"
+                  width={16}
+                >
+                  <desc>
+                    locate
+                  </desc>
+                  <path
+                    d="M15 7h-.09A6.98 6.98 0 0 0 9 1.1V1c0-.55-.45-1-1-1S7 .45 7 1v.09A6.98 6.98 0 0 0 1.1 7H1c-.55 0-1 .45-1 1s.45 1 1 1h.1A6.969 6.969 0 0 0 7 14.91V15c0 .55.45 1 1 1s1-.45 1-1v-.09A6.98 6.98 0 0 0 14.9 9h.1c.55 0 1-.45 1-1s-.45-1-1-1zm-6.02 5.9c-.05-.5-.46-.9-.98-.9s-.93.4-.98.9A5.017 5.017 0 0 1 3.1 8.98c.5-.05.9-.46.9-.98s-.4-.93-.9-.98A5.017 5.017 0 0 1 7.02 3.1c.05.5.46.9.98.9s.93-.4.98-.9c1.97.39 3.52 1.95 3.92 3.92-.5.05-.9.46-.9.98s.4.93.9.98a5.017 5.017 0 0 1-3.92 3.92zM8 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+                    fillRule="evenodd"
+                  />
+                </svg>
+              </span>
+               
+              Engineering Building II
+            </a>
+          </div>
+          <br />
+          <span
+            className="org-tags"
+          >
+            <a
+              href="/search"
+              onClick={[Function]}
+            >
+              <span
+                className="bp3-tag .modifier"
+              >
+                Technology
+              </span>
+            </a>
+          </span>
+          <span
+            className="org-tags"
+          >
+            <a
+              href="/search"
+              onClick={[Function]}
+            >
+              <span
+                className="bp3-tag .modifier"
+              >
+                Free food
+              </span>
+            </a>
+          </span>
+        </div>
+        <br />
+      </div>
+    </div>
+  </div>
+</div>
+`;

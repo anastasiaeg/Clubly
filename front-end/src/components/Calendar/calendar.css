@@ -1,0 +1,35 @@
+.calendar-child {
+    /* flex-basis: 100%; */
+    flex-grow: 1;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    /* flex-grow: 1;
+    
+    margin: 0px;
+    margin-top: 40px; */
+}
+
+.calendar-card {
+    overflow-y: scroll;
+    flex: 1;
+    height: 100%
+}
+
+.calendar {
+    height: 100%
+}
+
+.calendar-range {
+    width: 210px;
+    display: inline-block;
+    text-align: center;
+}
+
+.calendar-date-picker {
+    text-align: center;
+}
+
+.calendar-date-dialog {
+    width: 250px;
+}

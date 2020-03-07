@@ -1,0 +1,52 @@
+.event-management .image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.event-management img {
+    margin: 5px;
+    transition: all 1s;
+    width: 300px;
+    height: 200px;
+    object-fit: contain;
+    justify-content: center;
+}
+
+.event-card {
+    margin-bottom: 5px;
+}
+
+.event-location {
+    margin-bottom: 10px;
+}
+
+.date-input {
+    width: 200px;
+}
+
+.org-image-container img {
+    border-radius: 8px;
+    width: 450px;
+    height: 300px;
+    object-fit: contain;
+    justify-content: center;
+}
+
+.org-image-container {
+    margin-right: 20px;
+}
+
+.org-tags span {
+    margin-right: 2.5px;
+    margin-left: 2.5px;
+}
+
+.event-management img:hover {
+    transform: scale(1.1)
+}
+
+.event-management .description {
+    padding: 15px;
+    text-align: center;
+}

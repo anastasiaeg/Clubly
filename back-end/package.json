@@ -21,7 +21,7 @@
     "passport-local": "^1.0.0",
     "pg": "^7.6.0",
     "pg-hstore": "^2.3.2",
-    "pug": "2.0.0-beta11",
+    "pug": "3.0.1",
     "sequelize": "^4.41.0"
   },
   "nyc": {
